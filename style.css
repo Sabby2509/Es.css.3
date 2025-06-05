@@ -125,6 +125,8 @@ button{
     animation-duration: 2s;
     animation-iteration-count: infinite;
     position: fixed;
+    bottom: 10px;
+    right: 10px;
     
 }
 
